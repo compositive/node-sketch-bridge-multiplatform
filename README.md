@@ -32,8 +32,8 @@ npm run test
 
 👤 **Michele Piccirillo @lordofthelake**
 
-* Website: https://compositive.design/
-* Github: [@compositive](https://github.com/compositive)
+- Website: https://compositive.io/
+- Github: [@compositive](https://github.com/CompositiveHQ)
 
 ## 🤝 Contributing
 
@@ -48,5 +48,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Michele Piccirillo @lordofthelake](https://github.com/compositive).<br />
 This project is [MIT](https://github.com/compositive/node-sketch-bridge-multiplatform/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
