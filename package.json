@@ -18,7 +18,7 @@
   "homepage": "https://github.com/compositive/node-sketch-bridge-multiplatform#readme",
   "dependencies": {
     "font-manager": "^0.3.1",
-    "fontkit": "^1.8.1",
+    "fontkit": "^1.9.0",
     "jest": "^26.6.3",
     "linebreak": "^1.0.2",
     "murmur2js": "^1.0.0"
